@@ -1,4 +1,0 @@
-bedroom,34,Turn OFF Heater.
-drawing room,24,Turn OFF Heater.
-launch,30,Turn OFF Heater.
-launch,24,Turn OFF Heater.
